@@ -17,9 +17,10 @@ Languages: Go, JavaScript / React, C++, PHP
 Interests: Programming, Learning, Music, TV
 ```
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img width="20" height="25px" alt="#57586d" src="https://via.placeholder.com/15/57586d/000000?text=+"/>
-<img width="20" height="25px" alt="#1b1219" src="https://via.placeholder.com/15/1b1219/000000?text=+"/>
-<img width="20" height="25px" alt="#f5ead4" src="https://via.placeholder.com/15/f5ead4/000000?text=+"/>
-<img width="20" height="25px" alt="#6d4d39" src="https://via.placeholder.com/15/6d4d39/000000?text=+"/>
-<img width="20" height="25px" alt="#d69569" src="https://via.placeholder.com/15/d69569/000000?text=+"/>
+<!-- The first two were supposed to be vertically aligned (like flex-direction: vertical), but not sure if that's possible in md -->
+<img align="left" src="./assets/1x1.png" alt="placeholder stretch to align colors" width="225px" height="1">
+<img align="left" width="26" height="30px" alt="#57586d" src="https://via.placeholder.com/100/57586d/ffffff?text=+"/>
+<img align="left" width="26" height="30px" alt="#1b1219" src="https://via.placeholder.com/100/1b1219/ffffff?text=+"/>
+<img align="left" width="26" height="30px" alt="#f5ead4" src="https://via.placeholder.com/100/f5ead4/000000?text=+"/>
+<img align="left" width="26" height="30px" alt="#6d4d39" src="https://via.placeholder.com/100/6d4d39/ffffff?text=+"/>
+<img align="left" width="26" height="30px" alt="#d69569" src="https://via.placeholder.com/100/d69569/000000?text=+"/>
