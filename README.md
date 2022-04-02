@@ -3,7 +3,7 @@
 ```
 <img align="left" alt="Fabian as pixels" src="./assets/prof.png" width="225px">
 
-```zsh
+```csharp
 infocus7@github
 ---------------
        OS: macOS 12.3
