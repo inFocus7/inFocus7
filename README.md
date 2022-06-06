@@ -15,6 +15,8 @@ infocus7@github
 Languages: Go, JavaScript / React, C++, PHP
     Tools: GoLand, WebStorm, Figma, Ableton Live 
 Interests: Programming, Learning, Music, TV
+      Org: solo.io
+  PrevOrg: wayfair
 ```
 
 <!-- The first two were supposed to be vertically aligned (like flex-direction: vertical), but not sure if that's possible in md -->
