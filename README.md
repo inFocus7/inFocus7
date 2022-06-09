@@ -15,8 +15,8 @@ infocus7@github
 Languages: Go, JavaScript / React, C++, PHP
     Tools: GoLand, WebStorm, Figma, Ableton Live 
 Interests: Programming, Learning, Music, TV
-      Org: solo.io
-  PrevOrg: wayfair
+      Org: solo.io 🦄
+  PrevOrg: wayfair 🛋
 ```
 
 <!-- The first two were supposed to be vertically aligned (like flex-direction: vertical), but not sure if that's possible in md -->
@@ -29,5 +29,5 @@ Interests: Programming, Learning, Music, TV
 <img width="26" height="30px" alt="#d69569" src="https://via.placeholder.com/100/d69569/000000?text=+"/> -->
 
 <!-- GitHub Stats -->
-<img align="left" height="175px" src="https://github-readme-stats.vercel.app/api?username=infocus7&theme=tokyonight&count_private=true&show_icons=true&hide=commits" alt="inFocus7's GitHub Stats"/>
-<img align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocus7&hide=html&layout=compact&theme=tokyonight" alt="inFocus7's Language Stats"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=infocus7&theme=tokyonight&count_private=true&show_icons=true&hide=commits" alt="inFocus7's GitHub Stats"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocus7&hide=html&layout=compact&theme=tokyonight" alt="inFocus7's Language Stats"/>
