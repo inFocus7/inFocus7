@@ -32,4 +32,4 @@ Interests: Programming, Learning, Music, TV
 
 <!-- GitHub Stats -->
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=infocus7&theme=tokyonight&count_private=true&show_icons=true&hide=commits" alt="inFocus7's GitHub Stats"/>
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocus7&hide=html&layout=compact&theme=tokyonight" alt="inFocus7's Language Stats"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocus7&hide=&layout=compact&theme=tokyonight&langs_count=7" alt="inFocus7's Language Stats"/>
