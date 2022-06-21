@@ -31,6 +31,6 @@ Interests: Programming, Learning, Music, TV
 ---
 
 <!-- GitHub Stats -->
-<img height="175px" src="https://github-readme-stats-infocus7.vercel.app/api?username=infocus7&theme=tokyonight&count_private=true&show_icons=true&hide=commits" alt="inFocus7's GitHub Stats"/>
+<img height="225px" src="https://github-readme-stats-infocus7.vercel.app/api?username=infocus7&theme=tokyonight&count_private=true&show_icons=true&hide=commits" alt="inFocus7's GitHub Stats"/>
 <!-- Excluding `github-readme-stats` since vercel setup cloned instead of forked it oop -->
-<img height="175px" src="https://github-readme-stats-infocus7.vercel.app/api/top-langs/?username=infocus7&hide=&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=github-readme-stats" alt="inFocus7's Language Stats"/>
+<img height="225px" src="https://github-readme-stats-infocus7.vercel.app/api/top-langs/?username=infocus7&hide=&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=github-readme-stats" alt="inFocus7's Language Stats"/>
