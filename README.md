@@ -6,13 +6,13 @@
 ```csharp
 infocus7@github
 ---------------
-       OS: macOS 12.3
-    Shell: zsh 5.8
+       OS: macOS 12.6
+    Shell: zsh 5.8.1
  Terminal: iTerm2
       CPU: Apple M1 Pro
  Pronouns: he / him / his
-    Alias: fabiangonz98
-Languages: Go, React, C++, JavaScript, Rust, PHP
+  Aliases: fabiangonz98, infocus7
+Languages: Go, React, C++, JavaScript, PHP
     Tools: GoLand, WebStorm, Figma, Ableton Live
 Interests: Programming, Learning, Music, TV
       Org: solo.io 🦄
