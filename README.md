@@ -35,26 +35,24 @@ Interests: Programming, Learning, Music, TV
 
 <!-- Information -->
 ### Languages
-
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-000?style=for-the-badge&logo=YAML)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![gRPC](https://img.shields.io/badge/-gRPC-000?&logo=gRPC)
+![gRPC](https://img.shields.io/badge/-gRPC-000?style=for-the-badge&logo=gRPC)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Technologies & Tools
-
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![GitHub](https://img.shields.io/badge/-Github-000?&logo=Github)
-![GitHub Actions](https://img.shields.io/badge/-Github_Actions-000?&logo=GithubActions)
-![Amazon AWS](https://img.shields.io/badge/-AWS-000?&logo=AmazonAWS)
-![Envoy Proxy](https://img.shields.io/badge/-Envoy-000?&logo=EnvoyProxy)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Envoy Proxy](https://img.shields.io/badge/-Envoy-000?style=for-the-badge&logo=EnvoyProxy)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 <!-- Misc -->
