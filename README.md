@@ -3,7 +3,9 @@
 <!-- GitHub Stats -->
 <div align="center">
 <img align="center" src="https://github-readme-stats-infocus7.vercel.app/api?username=infocus7&theme=tokyonight&count_private=true&show_icons=true&hide=commits" alt="inFocus7's GitHub Stats"/>
+       <!-- does not look good trying to horizonally align them...
 <img align="center" src="https://github-readme-stats-infocus7.vercel.app/api/top-langs/?username=infocus7&hide=&layout=compact&theme=tokyonight&langs_count=5&exclude_repo=github-readme-stats,do-not-submit-action-tester" alt="inFocus7's Language Stats"/>
+       -->
 </div>
 
 
