@@ -1,5 +1,13 @@
 <img alt="inFocus7 Banner" src="./assets/Hello%2C%20my%20name%20is%20Fabian.%20Welcome%20to%20my%20GitHub!.png"/>
 
+<!-- GitHub Stats -->
+<div align="center">
+<img align="center" src="https://github-readme-stats-infocus7.vercel.app/api?username=infocus7&theme=tokyonight&count_private=true&show_icons=true&hide=commits" alt="inFocus7's GitHub Stats"/>
+<img align="center" src="https://github-readme-stats-infocus7.vercel.app/api/top-langs/?username=infocus7&hide=&layout=compact&theme=tokyonight&langs_count=5&exclude_repo=github-readme-stats,do-not-submit-action-tester" alt="inFocus7's Language Stats"/>
+</div>
+
+
+<!-- neofetch design is very nice on larger screens, but kind of bleh on smaller screens and mobile devices, so commenting out for now.
 ```zsh
 > neofetch
 ```
@@ -20,10 +28,12 @@ Interests: Programming, Learning, Music, OSS, TV
       Org: solo.io 🦄
   PrevOrg: wayfair 🛋
 ```
+-->
+# Hi, I'm Fabian!
+I am currently working @solo.io as part of the Gloo Edge team as a backend engineer, utilizing a lot of Go, YAML, and various cloud technologies. 
+I previously worked @wayfair as a full-stack engineer using React.js and PHP.
 
-<!-- GitHub Stats -->
-| <img align="center" src="https://github-readme-stats-infocus7.vercel.app/api?username=infocus7&theme=tokyonight&count_private=true&show_icons=true&hide=commits" alt="inFocus7's GitHub Stats"/> | <img align="center" src="https://github-readme-stats-infocus7.vercel.app/api/top-langs/?username=infocus7&hide=&layout=compact&theme=tokyonight&langs_count=5&exclude_repo=github-readme-stats,do-not-submit-action-tester" alt="inFocus7's Language Stats"/> | 
-| ------------- | ------------- |
+In my free time I like learning new things, contributing to OSS, and doing the various activities that I listed in my **#interests** section.
 
 <!-- Information -->
 ### Languages
@@ -33,7 +43,6 @@ Interests: Programming, Learning, Music, OSS, TV
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-%23F74C01.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23474A8A.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks
 ![gRPC](https://img.shields.io/badge/-gRPC-%23244c5a?style=for-the-badge&logo=gRPC)
@@ -48,12 +57,15 @@ Interests: Programming, Learning, Music, OSS, TV
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+
 <!-- Misc -->
-# Likes & Interests
+## Interests
 
 - Listening to a lot of [music](https://www.last.fm/user/inFocus7).
 - Playing [video games](https://steamcommunity.com/id/inFocus7).
 - Making [beats](https://traktrain.com/inf0) & [instrumentals](https://open.spotify.com/artist/0fNC7QchRvVbw3XERNJFHu?si=j1rENuaRRT2K74LrEwmtzA).
 - Watching [TV shows](https://trakt.tv/users/fabiangonz98) & [movies](https://letterboxd.com/fabiangonz98/).
 
-[![Spotify](https://infocus7-2.vercel.app/api/spotify)](https://open.spotify.com/user/infocus7)
+&nbsp;<div align="center">
+  [![Spotify](https://infocus7-2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/infocus7)
+</div>
