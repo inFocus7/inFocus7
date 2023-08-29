@@ -1,3 +1,5 @@
+<img alt="inFocus7 Banner" src="./assets/Hello%2C%20my%20name%20is%20Fabian.%20Welcome%20to%20my%20GitHub!.png"/>
+
 ```zsh
 > neofetch
 ```
