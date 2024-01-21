@@ -35,7 +35,7 @@ Interests: Programming, Learning, Music, OSS, TV
 I am currently working @solo.io as part of the Gloo Edge team as a backend engineer, utilizing a lot of Go, YAML, and various cloud technologies. 
 I previously worked @wayfair as a full-stack engineer using React.js and PHP.
 
-In my free time I like learning new things, contributing to OSS, and doing the various activities that I listed in my **#interests** section.
+In my free time I like learning new things (currently studying for CKAD + CKA), contributing to OSS, making little tools, and doing the various activities that I listed in my **#interests** section.
 
 <!-- Information -->
 ### Languages
