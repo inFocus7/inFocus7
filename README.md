@@ -26,7 +26,6 @@ I previously worked @wayfair as a full-stack engineer using React.js and PHP.
 
 In my free time I like learning, contributing to OSS, making little tools, and doing the various activities that I listed in my **#interests** section.
 
-<!-- Information -->
 ## Tech
 
 ### Languages
@@ -50,7 +49,6 @@ In my free time I like learning, contributing to OSS, making little tools, and d
 ### Certifications
 ![CKAD](https://img.shields.io/badge/CKAD-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<!-- Misc -->
 ## Interests
 
 - Listening to a lot of [music](https://www.last.fm/user/inFocus7).
@@ -58,6 +56,9 @@ In my free time I like learning, contributing to OSS, making little tools, and d
 - Making [beats](https://traktrain.com/inf0) & [instrumentals](https://open.spotify.com/artist/0fNC7QchRvVbw3XERNJFHu?si=j1rENuaRRT2K74LrEwmtzA).
 - Watching [TV shows](https://trakt.tv/users/fabiangonz98) & [movies](https://letterboxd.com/fabiangonz98/).
 - Learning things in the realm of cloud technologies, AI, and mathematics.
+
+Below is my usual Obsidian canvas flow / template when working on issues.
+![obsidian mental model workflow](./assets/mental-model-light.excalidraw.png)
 
 ## Banners
 
