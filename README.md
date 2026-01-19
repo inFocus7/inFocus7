@@ -59,9 +59,11 @@ In my free time I like learning, contributing to OSS, making little tools, and d
 
 ## Banners
 
+<!--
 &nbsp;<div align="center">
   [![Spotify](https://infocus7-2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/infocus7)
 </div>
+-->
 
 <!-- GitHub Stats -->
 <div align="center">
