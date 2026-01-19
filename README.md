@@ -21,7 +21,7 @@ Interests: OSS, Programming, Learning, Maths, Music, TV
 
 # Hi, I'm Fabian!
 
-I am currently working @solo.io as part of the ~~Gloo Edge~~ Gloo Mesh team as a backend engineer, utilizing a lot of Go, YAML, and various cloud technologies. 
+I am currently working @solo.io as part of the ~~Gloo Edge~~ ~~Gloo Mesh~~ AI team as a backend engineer, utilizing a lot of Go, YAML, and various cloud technologies. 
 I previously worked @wayfair as a full-stack engineer using React.js and PHP.
 
 In my free time I like learning, contributing to OSS, making little tools, and doing the various activities that I listed in my **#interests** section.
@@ -54,8 +54,8 @@ In my free time I like learning, contributing to OSS, making little tools, and d
 - Listening to a lot of [music](https://www.last.fm/user/inFocus7).
 - Playing [video games](https://steamcommunity.com/id/inFocus7).
 - Making [beats](https://traktrain.com/inf0) & [instrumentals](https://open.spotify.com/artist/0fNC7QchRvVbw3XERNJFHu?si=j1rENuaRRT2K74LrEwmtzA).
-- Watching [TV shows](https://trakt.tv/users/fabiangonz98) & [movies](https://letterboxd.com/fabiangonz98/).
 - Learning things in the realm of cloud technologies, AI, and mathematics.
+<!-- - Watching [TV shows](https://trakt.tv/users/fabiangonz98) & [movies](https://letterboxd.com/fabiangonz98/). -->
 
 ## Banners
 
