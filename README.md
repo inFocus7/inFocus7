@@ -57,9 +57,6 @@ In my free time I like learning, contributing to OSS, making little tools, and d
 - Watching [TV shows](https://trakt.tv/users/fabiangonz98) & [movies](https://letterboxd.com/fabiangonz98/).
 - Learning things in the realm of cloud technologies, AI, and mathematics.
 
-Below is my usual Obsidian canvas flow / template when working on issues.
-![obsidian mental model workflow](./assets/mental-model-light.excalidraw.png)
-
 ## Banners
 
 &nbsp;<div align="center">
