@@ -40,12 +40,10 @@ Interests: OSS, Programming, Learning, Math, Media
 
 ## Interests
 
-- Learning about the cloud, systems, and AI. ☁️🤖
-- Making [beats](https://traktrain.com/inf0) & [electronic music](https://open.spotify.com/artist/0fNC7QchRvVbw3XERNJFHu?si=j1rENuaRRT2K74LrEwmtzA). 🎹💻
-- Watching [TV shows](https://trakt.tv/users/fabiangonz98) & [movies](https://letterboxd.com/fabiangonz98/). 📼📺
-- Listening to a lot of [music](https://www.last.fm/user/inFocus7). 🎧🎶
-- Reading [books](https://www.goodreads.com/inf0). 📚📖
-- Playing [video games](https://steamcommunity.com/id/inFocus7). 🎮👾
+- ☁️🤖 OSS, Cloud, Systems, AI 
+- 🎹💻 Making [beats](https://traktrain.com/inf0) & [electronic music](https://open.spotify.com/artist/0fNC7QchRvVbw3XERNJFHu?si=j1rENuaRRT2K74LrEwmtzA)
+- 📼🎧 [TV](https://trakt.tv/users/fabiangonz98), [Movies](https://letterboxd.com/fabiangonz98/), & [Music](https://www.last.fm/user/inFocus7) 
+- 📖🎮 [Books](https://www.goodreads.com/inf0) & [Games](https://steamcommunity.com/id/inFocus7)
 
 ## Banners
 
