@@ -32,8 +32,6 @@ Interests: OSS, Programming, Learning, Math, Media
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=Python&logoColor=ffdd54)
 
-## Certifications
-
 ![CKAD](https://img.shields.io/badge/CKAD-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Interests
