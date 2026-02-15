@@ -1,7 +1,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" alt="Fabian as pixels" src="./assets/prof.png" height="243px">
+<img align="left" alt="Fabian as pixels" src="./assets/suit-ascii.png" height="245px">
 
 ```csharp
 infocus7@github
