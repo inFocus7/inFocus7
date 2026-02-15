@@ -8,10 +8,10 @@ infocus7@github
 ---------------
   Aliases: fabiangonz98, infocus7, inf0
  Pronouns: he / him / his
-      CPU: Apple M1 Max
+  CPU/GPU: Apple M1 Max
     Shell: zsh
  Terminal: iTerm / Warp
-      IDEs: JetBrains, Cursor
+     IDEs: JetBrains, Cursor
 Interests: OSS, Programming, Learning, Math, Media
       Org: solo.io
   PrevOrg: wayfair
@@ -22,17 +22,15 @@ Interests: OSS, Programming, Learning, Math, Media
 ## Tech
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-%23cb181e?style=for-the-badge&logo=YAML)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![gRPC](https://img.shields.io/badge/-gRPC-%23244c5a?style=for-the-badge&logo=gRPC)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Envoy Proxy](https://img.shields.io/badge/-Envoy-%23290B53?style=for-the-badge&logo=EnvoyProxy)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-%23cb181e?style=for-the-badge&logo=YAML)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=Python&logoColor=ffdd54)
 
 ## Certifications
 
