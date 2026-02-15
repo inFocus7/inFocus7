@@ -3,7 +3,7 @@
 ```
 <img align="left" alt="Fabian as pixels" src="./assets/suit-ascii.png" height="245px">
 
-```csharp
+```zsh
 infocus7@github
 ---------------
   Aliases: fabiangonz98, infocus7, inf0
