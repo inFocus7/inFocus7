@@ -1,20 +1,23 @@
 ```zsh
 > neofetch
 ```
-<img align="left" alt="Fabian as pixels" src="./assets/prof.png" width="289px">
+<img align="left" alt="Fabian as pixels" src="./assets/prof.png" height="243px">
 
 ```csharp
 infocus7@github
 ---------------
+  Aliases: fabiangonz98, infocus7, inf0
+ Pronouns: he / him / his
+      CPU: Apple M1 Max
     Shell: zsh
  Terminal: iTerm / Warp
-      CPU: Apple M1 Max
- Pronouns: he / him / his
-  Aliases: fabiangonz98, infocus7, inf0
+      IDEs: JetBrains, Cursor
 Interests: OSS, Programming, Learning, Math, Media
       Org: solo.io
   PrevOrg: wayfair
 ```
+
+<br clear="left"/>
 
 ## Tech
 
